@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+.env
+*.egg-info/
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+*.tsbuildinfo
+
+# iOS
+ios/
+android/
+*.jks
+*.p8
+*.p12
+*.mobileprovision
+*.orig.*
+
+# Misc
+.DS_Store
+*.log
+tmp/
